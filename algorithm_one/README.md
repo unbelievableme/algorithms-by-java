@@ -1,0 +1,2 @@
+the folder of algorithm_one contains some classic examples of classic algorithmic strategies (divide and conquer, decreaseConquer, dynamicProgramming, greedy, backtracking, branch boundaries).There are GUI.
+the folder of algorithm_two contains some examples having been classified in the interview.There are not GUI.
